@@ -19,5 +19,6 @@ is intended for a speicifc BIOS version.
 
 | Filename | Compatibility | Description |
 |----------|---------------|-------------|
-| fxbios_shortintro.ips | Both | Disables startup splash screen and reduces boot time in half (for developers) |
-| fxbios_english.ips | Both | Partial translation - main menu only (roughly 20% of the full BIOS) |
+| fxbios_shortintro.ips | all 3 | Disables startup splash screen and reduces boot time in half (for developers) |
+| fxbios_english.ips | all 3 | Partial translation - main menu only (roughly 20% of the full BIOS) |
+| fxbios_autolaunch.ips | all 3 | launches the CD right after the intro |
