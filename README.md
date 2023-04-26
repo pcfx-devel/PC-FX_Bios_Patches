@@ -13,12 +13,12 @@ built before late 1995, and is the likely version which people use
 on emulators.
 
 As such, you will need to check in the list below whether the patch
-is intended for a speicifc BIOS version.
+is intended for a specifc BIOS version.
 
 ## List of Patches
 
 | Filename | Compatibility | Description |
 |----------|---------------|-------------|
-| fxbios_shortintro.ips | all 3 | Disables startup splash screen and reduces boot time in half (for developers) |
-| fxbios_english.ips | all 3 | Partial translation - main menu only (roughly 20% of the full BIOS) |
-| fxbios_autolaunch.ips | all 3 | launches the CD right after the intro |
+| fxbios_shortintro.ips | both | Disables startup splash screen and reduces boot time in half (for developers) |
+| fxbios_english.ips | both | Partial translation - main menu only (roughly 20% of the full BIOS) |
+| fxbios_autolaunch.ips | both | launches the CD right after the intro |
