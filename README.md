@@ -22,3 +22,7 @@ is intended for a specifc BIOS version.
 | fxbios_shortintro.ips | both | Disables startup splash screen and reduces boot time in half (for developers) |
 | fxbios_english.ips | both | Partial translation - main menu only (roughly 20% of the full BIOS) |
 | fxbios_autolaunch.ips | both | launches the CD right after the intro |
+
+## Links for More Information
+
+[Short Introduction Patch Technical Details](Short_intro_patch.md)
